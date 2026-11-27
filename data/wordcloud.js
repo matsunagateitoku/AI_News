@@ -2,377 +2,377 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "thanksgiving",
-    72,
-    "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html"
+    91,
+    "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html"
+  ],
+  [
+    "deals",
+    76,
+    "https://www.theguardian.com/thefilter-us/2026/nov/27/best-black-friday-deals"
   ],
   [
     "trump",
-    72,
+    73,
     "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html"
   ],
   [
     "black",
-    44,
+    64,
     "https://www.washingtonpost.com/health/2026/11/26/number-excess-deaths-between-black-white-americans-shrank-sharply/"
   ],
   [
-    "deals",
-    31,
-    "https://www.theguardian.com/thefilter-us/2026/nov/26/best-streaming-black-friday-deals"
-  ],
-  [
-    "food",
-    29,
-    "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes"
-  ],
-  [
-    "judge",
-    28,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/27/im-not-interested-in-having-sex-with-near-strangers-as-a-newly-single-man-how-do-i-navigate-dating"
-  ],
-  [
     "president",
-    27,
-    "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html"
-  ],
-  [
-    "lead",
-    25,
-    "https://www.washingtonpost.com/nation/2026/11/25/how-army-detonated-explosives-iowa-potential-plume/"
-  ],
-  [
-    "american",
-    24,
-    "https://www.washingtonpost.com/religion/2026/11/26/how-wampanoag-language-bible-was-first-published-early-america/"
-  ],
-  [
-    "iowa",
-    22,
-    "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html"
-  ],
-  [
-    "administration",
-    22,
-    "https://www.nytimes.com/2026/11/26/us/politics/snap-food-stamps-school-meals.html"
-  ],
-  [
-    "war",
-    22,
-    "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html"
-  ],
-  [
-    "duran",
-    22,
-    "https://www.washingtonpost.com/entertainment/music/2026/11/25/andy-taylor-versatile-guitarist-duran-duran-dies-65/"
-  ],
-  [
-    "data",
-    21,
-    "https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html"
-  ],
-  [
-    "love",
-    21,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/27/im-not-interested-in-having-sex-with-near-strangers-as-a-newly-single-man-how-do-i-navigate-dating"
-  ],
-  [
-    "game",
-    21,
-    "https://www.theguardian.com/music/2026/nov/25/grand-theft-auto-vi-the-album-review"
-  ],
-  [
-    "parade",
-    20,
-    "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html"
-  ],
-  [
-    "democrats",
-    19,
+    42,
     "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html"
   ],
   [
     "holiday",
+    29,
+    "https://www.nytimes.com/2026/11/26/us/politics/thanksgiving-wisconsin-governor-francesca-hong.html"
+  ],
+  [
+    "parade",
+    28,
+    "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html"
+  ],
+  [
+    "war",
+    26,
+    "https://www.washingtonpost.com/religion/2026/11/26/how-wampanoag-language-bible-was-first-published-early-america/"
+  ],
+  [
+    "judge",
+    26,
+    "https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized"
+  ],
+  [
+    "democrats",
+    25,
+    "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html"
+  ],
+  [
+    "power",
+    25,
+    "https://www.washingtonpost.com/nation/2026/11/26/maryland-residents-urged-conserve-water-after-storm-disrupts-power/"
+  ],
+  [
+    "food",
+    23,
+    "https://www.theguardian.com/thefilter-us/2026/nov/27/best-black-friday-deals"
+  ],
+  [
+    "lead",
+    22,
+    "https://www.washingtonpost.com/nation/2026/11/25/how-army-detonated-explosives-iowa-potential-plume/"
+  ],
+  [
+    "american",
+    21,
+    "https://www.washingtonpost.com/obituaries/2026/11/26/anita-defrantz-outstanding-advocate-olympic-values-dies-74/"
+  ],
+  [
+    "ukraine",
+    21,
+    "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
+  ],
+  [
+    "iowa",
+    20,
+    "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html"
+  ],
+  [
+    "party",
+    20,
+    "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html"
+  ],
+  [
+    "family",
     19,
-    "https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html"
+    "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html"
   ],
   [
-    "health",
+    "coast",
     19,
-    "https://www.nytimes.com/2026/11/26/opinion/trump-maureen-dowd-brother.html"
+    "https://www.washingtonpost.com/nation/2026/11/26/powerful-thanksgiving-storm-threatens-east-coast-with-floods-damaging-winds/"
   ],
   [
-    "russia",
-    18,
-    "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html"
-  ],
-  [
-    "review",
-    18,
-    "https://www.washingtonpost.com/nation/2026/11/25/fort-hood-shooter-nidal-malik-hasan-asks-court-stay-execution/"
+    "don",
+    19,
+    "https://www.theguardian.com/film/2026/nov/27/mike-leigh-interview-last-film-tender-loving-care"
   ],
   [
     "army",
-    17,
+    18,
     "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html"
   ],
   [
-    "global",
+    "duran",
+    18,
+    "https://www.washingtonpost.com/entertainment/music/2026/11/25/andy-taylor-versatile-guitarist-duran-duran-dies-65/"
+  ],
+  [
+    "early",
+    18,
+    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
+  ],
+  [
+    "country",
+    18,
+    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+  ],
+  [
+    "game",
+    18,
+    "https://www.theguardian.com/lifeandstyle/2026/nov/27/experience-snapped-thigh-in-half-playing-thanksgiving-party-game"
+  ],
+  [
+    "election",
+    18,
+    "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe"
+  ],
+  [
+    "storm",
     17,
-    "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html"
+    "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html"
+  ],
+  [
+    "social",
+    17,
+    "https://www.nytimes.com/2026/11/26/arts/television/georgia-tech-couple-fan-camera-ethics.html"
+  ],
+  [
+    "russia",
+    17,
+    "https://www.washingtonpost.com/obituaries/2026/11/26/strobe-talbott-who-helped-shape-clinton-era-foreign-policy-dies-80/"
+  ],
+  [
+    "review",
+    17,
+    "https://www.washingtonpost.com/nation/2026/11/25/fort-hood-shooter-nidal-malik-hasan-asks-court-stay-execution/"
+  ],
+  [
+    "california",
+    17,
+    "https://www.washingtonpost.com/nation/2026/11/25/thomas-markle-indicted-charges-possessing-child-sex-abuse-material/"
+  ],
+  [
+    "travel",
+    17,
+    "https://www.washingtonpost.com/lifestyle/2026/11/25/thanksgiving-travel-is-trauma-season-wildlife-these-2-owls-got-lucky/"
+  ],
+  [
+    "police",
+    17,
+    "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas"
+  ],
+  [
+    "administration",
+    16,
+    "https://www.nytimes.com/2026/11/26/us/politics/snap-food-stamps-school-meals.html"
+  ],
+  [
+    "died",
+    16,
+    "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html"
+  ],
+  [
+    "east",
+    16,
+    "https://www.washingtonpost.com/nation/2026/11/26/powerful-thanksgiving-storm-threatens-east-coast-with-floods-damaging-winds/"
+  ],
+  [
+    "powerful",
+    15,
+    "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html"
+  ],
+  [
+    "democratic",
+    15,
+    "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html"
+  ],
+  [
+    "health",
+    15,
+    "https://www.nytimes.com/2026/11/26/opinion/trump-maureen-dowd-brother.html"
   ],
   [
     "water",
-    17,
+    15,
+    "https://www.washingtonpost.com/nation/2026/11/26/maryland-residents-urged-conserve-water-after-storm-disrupts-power/"
+  ],
+  [
+    "won",
+    15,
+    "https://www.washingtonpost.com/immigration/2026/11/26/ice-arrests-man-days-after-1m-lottery-win-boston/"
+  ],
+  [
+    "americans",
+    15,
+    "https://www.washingtonpost.com/religion/2026/11/26/how-wampanoag-language-bible-was-first-published-early-america/"
+  ],
+  [
+    "shopping",
+    15,
+    "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse"
+  ],
+  [
+    "russian",
+    15,
+    "https://www.theguardian.com/world/2026/nov/27/ukraine-war-briefing-kyiv-launched-more-long-range-strikes-in-2026-than-rest-of-war-combined-data-shows"
+  ],
+  [
+    "york",
+    14,
+    "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html"
+  ],
+  [
+    "because",
+    14,
+    "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html"
+  ],
+  [
+    "far",
+    14,
+    "https://www.nytimes.com/2026/11/27/opinion/international-world/far-left-terrorism-threat-america.html"
+  ],
+  [
+    "nearly",
+    14,
     "https://www.washingtonpost.com/nation/2026/11/26/maryland-residents-urged-conserve-water-after-storm-disrupts-power/"
   ],
   [
     "million",
-    17,
+    14,
     "https://www.washingtonpost.com/nation/2026/11/26/maryland-residents-urged-conserve-water-after-storm-disrupts-power/"
-  ],
-  [
-    "early",
-    17,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "though",
-    17,
-    "https://www.wsj.com/articles/canada-fentanyl-increase-organized-crime-00886863"
-  ],
-  [
-    "don",
-    17,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/27/im-not-interested-in-having-sex-with-near-strangers-as-a-newly-single-man-how-do-i-navigate-dating"
-  ],
-  [
-    "because",
-    16,
-    "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html"
-  ],
-  [
-    "power",
-    16,
-    "https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html"
-  ],
-  [
-    "americans",
-    16,
-    "https://www.washingtonpost.com/religion/2026/11/26/how-wampanoag-language-bible-was-first-published-early-america/"
-  ],
-  [
-    "china",
-    16,
-    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
-  ],
-  [
-    "film",
-    16,
-    "https://www.theguardian.com/film/2026/nov/26/cinemas-greatest-egg-scenes-ranked"
-  ],
-  [
-    "ukraine",
-    16,
-    "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
-  ],
-  [
-    "shopping",
-    16,
-    "https://www.theguardian.com/games/2026/nov/25/the-secret-to-grand-theft-auto-vi-routine-rockstar-games"
-  ],
-  [
-    "tech",
-    15,
-    "https://www.washingtonpost.com/business/2026/11/26/billionaire-marc-andreessen-takes-case-against-red-tape-federal-reserve/"
-  ],
-  [
-    "taylor",
-    15,
-    "https://www.washingtonpost.com/entertainment/music/2026/11/25/andy-taylor-versatile-guitarist-duran-duran-dies-65/"
-  ],
-  [
-    "family",
-    15,
-    "https://www.washingtonpost.com/dc-md-va/2026/11/25/sale-stefanik-familys-dc-home-deemed-unusual-city-records-show/"
-  ],
-  [
-    "everything",
-    15,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "personal",
-    15,
-    "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information"
-  ],
-  [
-    "rodgers",
-    15,
-    "https://www.theguardian.com/sport/2026/nov/26/steelers-owner-gives-backing-to-mike-mccarthy-in-row-with-aaron-rodgers"
-  ],
-  [
-    "released",
-    14,
-    "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html"
-  ],
-  [
-    "biggest",
-    14,
-    "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html"
-  ],
-  [
-    "star",
-    14,
-    "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html"
-  ],
-  [
-    "california",
-    14,
-    "https://www.washingtonpost.com/nation/2026/11/25/thomas-markle-indicted-charges-possessing-child-sex-abuse-material/"
-  ],
-  [
-    "grand",
-    14,
-    "https://www.washingtonpost.com/nation/2026/11/24/grand-canyon-national-park-superintendent-who-faced-scrutiny-over-fire-will-retire/"
-  ],
-  [
-    "pop",
-    14,
-    "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de"
-  ],
-  [
-    "least",
-    14,
-    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
-  ],
-  [
-    "place",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/26/flatbush-brooklyn-nyc-building-collapse-response-homeless"
-  ],
-  [
-    "company",
-    14,
-    "https://www.theguardian.com/film/2026/nov/26/cinemas-greatest-egg-scenes-ranked"
-  ],
-  [
-    "death",
-    14,
-    "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes"
-  ],
-  [
-    "order",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized"
-  ],
-  [
-    "turkey",
-    13,
-    "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/"
   ],
   [
     "fire",
-    13,
-    "https://www.washingtonpost.com/nation/2026/11/24/grand-canyon-national-park-superintendent-who-faced-scrutiny-over-fire-will-retire/"
+    14,
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "country",
-    13,
-    "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d"
+    "christmas",
+    14,
+    "https://www.theguardian.com/uk-news/2026/nov/27/killer-frogs-rat-murdering-fairies-macabre-cards-victorian-christmas"
   ],
   [
-    "something",
-    13,
-    "https://www.theguardian.com/music/2026/nov/26/a-ha-morten-harket-parkinsons-diagnosis"
+    "album",
+    14,
+    "https://www.theguardian.com/music/2026/nov/27/we-had-a-drug-dealer-called-satan-on-our-tour-bus-britpop-stars-echobelly-on-debauchery-being-pals-with-oasis-and-their-spiritual-return"
   ],
   [
-    "filter",
-    13,
-    "https://www.theguardian.com/thefilter-us/2026/nov/26/best-streaming-black-friday-deals"
+    "love",
+    14,
+    "https://www.theguardian.com/commentisfree/2026/nov/26/pro-choice-abortion-statistics-natsal-survey-deprivation-sexual-attitudes-energy-bills-reproductive-choice"
   ],
   [
-    "social",
-    13,
-    "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms"
+    "fcc",
+    14,
+    "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses"
   ],
   [
-    "art",
+    "postponed",
     13,
-    "https://www.theguardian.com/music/2026/nov/26/andy-taylor-death-duran-duran-transformed-by-guitarists-rock-edge"
+    "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html"
   ],
   [
-    "aaron",
+    "macy",
+    13,
+    "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html"
+  ],
+  [
+    "weather",
+    13,
+    "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html"
+  ],
+  [
+    "tech",
+    13,
+    "https://www.nytimes.com/2026/11/26/arts/television/georgia-tech-couple-fan-camera-ethics.html"
+  ],
+  [
+    "taylor",
+    13,
+    "https://www.washingtonpost.com/entertainment/music/2026/11/25/andy-taylor-versatile-guitarist-duran-duran-dies-65/"
+  ],
+  [
+    "data",
+    13,
+    "https://www.washingtonpost.com/climate-environment/2026/11/25/iowa-town-awaits-us-armys-planned-detonation-lead-azide-stockpile/"
+  ],
+  [
+    "china",
+    13,
+    "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863"
+  ],
+  [
+    "attack",
+    13,
+    "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e"
+  ],
+  [
+    "global",
+    13,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "video",
+    13,
+    "https://www.theguardian.com/lifeandstyle/2026/nov/27/experience-snapped-thigh-in-half-playing-thanksgiving-party-game"
+  ],
+  [
+    "toxic",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/nov/26/black-friday-household-essentials-sales-deals"
+  ],
+  [
+    "winter",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/nov/26/black-friday-household-essentials-sales-deals"
+  ],
+  [
+    "order",
+    13,
+    "https://www.theguardian.com/global-development/2026/nov/27/thousands-of-girls-and-women-report-bleeding-and-miscarriages-after-french-police-use-of-teargas"
+  ],
+  [
+    "support",
+    13,
+    "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering"
+  ],
+  [
+    "place",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/nov/25/black-friday-non-toxic-cookware-pans-deals"
+  ],
+  [
+    "following",
     13,
     "https://www.theguardian.com/sport/2026/nov/26/steelers-owner-gives-backing-to-mike-mccarthy-in-row-with-aaron-rodgers"
   ],
   [
-    "fcc",
-    13,
-    "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses"
-  ],
-  [
-    "macy",
+    "dies",
     12,
-    "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html"
+    "https://www.washingtonpost.com/obituaries/2026/11/26/anita-defrantz-outstanding-advocate-olympic-values-dies-74/"
   ],
   [
-    "york",
+    "turkey",
     12,
-    "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html"
+    "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/"
   ],
   [
-    "nearly",
+    "history",
     12,
-    "https://www.washingtonpost.com/nation/2026/11/26/maryland-residents-urged-conserve-water-after-storm-disrupts-power/"
+    "https://www.washingtonpost.com/nation/interactive/2026/11/26/macy-thanksgiving-parade-or-sliced-bread-choose-which-came-first-with-our-quiz/"
   ],
   [
-    "andy",
-    12,
-    "https://www.washingtonpost.com/entertainment/music/2026/11/25/andy-taylor-versatile-guitarist-duran-duran-dies-65/"
-  ],
-  [
-    "spain",
-    12,
-    "https://www.washingtonpost.com/immigration/2026/11/25/kilmar-abrego-garcia-leaves-us-spain-ending-20-month-deportation-fight/"
-  ],
-  [
-    "battle",
+    "government",
     12,
     "https://www.washingtonpost.com/immigration/2026/11/24/kilmar-abrego-garcia/"
   ],
   [
-    "travel",
+    "past",
     12,
-    "https://www.washingtonpost.com/lifestyle/2026/11/25/thanksgiving-travel-is-trauma-season-wildlife-these-2-owls-got-lucky/"
-  ],
-  [
-    "gaza",
-    12,
-    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
-  ],
-  [
-    "products",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/nov/26/best-streaming-black-friday-deals"
-  ],
-  [
-    "governor",
-    12,
-    "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather"
-  ],
-  [
-    "senate",
-    12,
-    "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water"
-  ],
-  [
-    "industry",
-    12,
-    "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water"
-  ],
-  [
-    "south",
-    12,
-    "https://www.theguardian.com/environment/2026/nov/26/water-levels-fall-rivers-lakes-reservoirs-global-study"
+    "https://www.wsj.com/articles/u-n-and-congolese-troops-struggle-to-halt-lightning-rebel-attack-705b481c"
   ]
 ];
