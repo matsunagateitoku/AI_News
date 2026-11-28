@@ -2,23 +2,18 @@
 (window.newsData=window.newsData||{}).wordcloud=[
   [
     "deals",
-    95,
-    "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html"
-  ],
-  [
-    "black",
     86,
     "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html"
   ],
   [
-    "thanksgiving",
-    74,
-    "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html"
+    "black",
+    69,
+    "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html"
   ],
   [
-    "trump",
-    56,
-    "https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html"
+    "thanksgiving",
+    66,
+    "https://www.nytimes.com/2026/11/27/us/thanksgiving-delayed-storm.html"
   ],
   [
     "holiday",
@@ -26,84 +21,129 @@
     "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html"
   ],
   [
+    "trump",
+    39,
+    "https://www.nytimes.com/2026/11/28/us/politics/trump-china-critics-nvidia.html"
+  ],
+  [
     "power",
-    38,
-    "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html"
-  ],
-  [
-    "president",
-    29,
-    "https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html"
-  ],
-  [
-    "don",
-    28,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/27/thanksgiving-turkey-leftover-recipes"
-  ],
-  [
-    "government",
-    23,
-    "https://www.nytimes.com/2026/11/27/opinion/corruption-government-prosecutions.html"
-  ],
-  [
-    "americans",
-    21,
-    "https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html"
-  ],
-  [
-    "party",
-    21,
-    "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours"
-  ],
-  [
-    "country",
-    20,
-    "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html"
-  ],
-  [
-    "lead",
-    20,
-    "https://www.washingtonpost.com/nation/2026/11/25/how-army-detonated-explosives-iowa-potential-plume/"
-  ],
-  [
-    "season",
-    20,
-    "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday"
-  ],
-  [
-    "parade",
-    19,
-    "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html"
-  ],
-  [
-    "food",
-    19,
-    "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning"
-  ],
-  [
-    "thousands",
-    18,
-    "https://www.washingtonpost.com/nation/2026/11/27/power-outages-heavy-rain-continue-east-coast-after-thanksgiving-day-storm/"
-  ],
-  [
-    "york",
-    17,
-    "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html"
+    35,
+    "https://www.nytimes.com/2026/11/27/us/thanksgiving-delayed-storm.html"
   ],
   [
     "war",
+    28,
+    "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html"
+  ],
+  [
+    "game",
+    25,
+    "https://www.theguardian.com/world/2026/nov/28/men-dominate-japanese-game-shogi-one-woman-broke-a-100-year-old-barrier-to-rise-to-the-top"
+  ],
+  [
+    "president",
+    24,
+    "https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html"
+  ],
+  [
+    "american",
+    24,
+    "https://www.washingtonpost.com/obituaries/2026/11/26/anita-defrantz-outstanding-advocate-olympic-values-dies-74/"
+  ],
+  [
+    "don",
+    24,
+    "https://www.theguardian.com/thefilter-us/2026/nov/26/best-streaming-black-friday-deals"
+  ],
+  [
+    "country",
+    23,
+    "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html"
+  ],
+  [
+    "food",
+    22,
+    "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning"
+  ],
+  [
+    "lead",
+    21,
+    "https://www.theguardian.com/commentisfree/2026/nov/27/army-lead-poison-bomb-iowa"
+  ],
+  [
+    "york",
+    20,
+    "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html"
+  ],
+  [
+    "americans",
+    20,
+    "https://www.nytimes.com/2026/11/27/us/thanksgiving-delayed-storm.html"
+  ],
+  [
+    "party",
+    20,
+    "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition"
+  ],
+  [
+    "russian",
+    19,
+    "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html"
+  ],
+  [
+    "season",
+    19,
+    "https://www.theguardian.com/thefilter-us/2026/nov/26/best-streaming-black-friday-deals"
+  ],
+  [
+    "air",
+    18,
+    "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1"
+  ],
+  [
+    "film",
+    18,
+    "https://www.theguardian.com/fashion/2026/nov/27/veruschka-obituary"
+  ],
+  [
+    "died",
+    18,
+    "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine"
+  ],
+  [
+    "star",
+    18,
+    "https://www.theguardian.com/film/2026/nov/26/jesse-eisenberg-says-his-films-contain-no-sexuality-but-maybe-his-fans-are-just-less-desperate"
+  ],
+  [
+    "russia",
     17,
     "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html"
   ],
   [
-    "american",
+    "parade",
     17,
-    "https://www.washingtonpost.com/obituaries/2026/11/26/anita-defrantz-outstanding-advocate-olympic-values-dies-74/"
+    "https://www.nytimes.com/2026/11/27/nyregion/rescheduled-macys-thanksgiving-parade.html"
   ],
   [
-    "far",
+    "storm",
     17,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/27/chicken-shop-dates-final-episode"
+    "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html"
+  ],
+  [
+    "government",
+    17,
+    "https://www.nytimes.com/2026/11/27/opinion/corruption-government-prosecutions.html"
+  ],
+  [
+    "million",
+    17,
+    "https://www.washingtonpost.com/nation/2026/11/26/maryland-residents-urged-conserve-water-after-storm-disrupts-power/"
+  ],
+  [
+    "ukraine",
+    17,
+    "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine"
   ],
   [
     "coast",
@@ -111,139 +151,89 @@
     "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html"
   ],
   [
-    "million",
+    "cancer",
     16,
-    "https://www.washingtonpost.com/nation/2026/11/26/maryland-residents-urged-conserve-water-after-storm-disrupts-power/"
+    "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html"
   ],
   [
-    "tech",
+    "sleep",
+    16,
+    "https://www.washingtonpost.com/health/2026/11/27/poorer-americans-are-more-likely-have-poor-sleep-study-shows/"
+  ],
+  [
+    "health",
     16,
     "https://www.washingtonpost.com/business/2026/11/26/billionaire-marc-andreessen-takes-case-against-red-tape-federal-reserve/"
   ],
   [
-    "latest",
-    16,
-    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
-  ],
-  [
-    "shopping",
+    "gift",
     16,
     "https://www.theguardian.com/thefilter-us/2026/nov/27/black-friday-deals-best-holiday-gifts"
   ],
   [
-    "night",
+    "family",
     16,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/27/experience-snapped-thigh-in-half-playing-thanksgiving-party-game"
+    "https://www.theguardian.com/culture/2026/nov/28/judi-dench-actor-interview-answers-questions-ian-mckellen-celia-imrie-lethal-bizzle"
   ],
   [
-    "nba",
+    "art",
     16,
-    "https://www.theguardian.com/sport/2026/nov/27/luka-doncic-los-angeles-lakers-san-antonio-spurs-nba"
+    "https://www.theguardian.com/fashion/2026/nov/27/veruschka-obituary"
   ],
   [
     "because",
     16,
-    "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits"
+    "https://www.theguardian.com/film/2026/nov/28/watching-wild-horse-nine-in-santiago-brings-pinochets-tyranny-back-to-dreadful-life"
   ],
   [
-    "code",
-    16,
-    "https://www.foxnews.com/outkick-betting/underdog-black-friday-promo-code-enter-code-foxnews-50-bonus-today"
-  ],
-  [
-    "questions",
-    15,
-    "https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html"
-  ],
-  [
-    "russian",
-    15,
-    "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html"
-  ],
-  [
-    "storm",
+    "east",
     15,
     "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html"
   ],
   [
-    "past",
+    "fire",
     15,
-    "https://www.nytimes.com/2026/11/27/business/media/old-tv-shows-mad-men.html"
+    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
   ],
   [
-    "water",
-    15,
-    "https://www.washingtonpost.com/nation/2026/11/26/maryland-residents-urged-conserve-water-after-storm-disrupts-power/"
-  ],
-  [
-    "air",
-    15,
-    "https://www.washingtonpost.com/climate-environment/2026/11/25/iowa-town-awaits-us-armys-planned-detonation-lead-azide-stockpile/"
-  ],
-  [
-    "early",
-    15,
-    "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497"
-  ],
-  [
-    "gift",
+    "shopping",
     15,
     "https://www.theguardian.com/thefilter-us/2026/nov/27/black-friday-deals-best-holiday-gifts"
   ],
   [
-    "art",
+    "florida",
     15,
-    "https://www.theguardian.com/fashion/2026/nov/27/veruschka-obituary"
-  ],
-  [
-    "film",
-    15,
-    "https://www.theguardian.com/fashion/2026/nov/27/veruschka-obituary"
-  ],
-  [
-    "ukraine",
-    15,
-    "https://www.theguardian.com/world/2026/nov/27/mass-casualty-event-europe-possible-russian-sabotage-says-thinktank"
+    "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning"
   ],
   [
     "christmas",
     15,
-    "https://www.theguardian.com/film/2026/nov/27/netflix-christmas-holiday-movies"
+    "https://www.theguardian.com/travel/gallery/2026/nov/28/chris-bray-captures-the-amazing-christmas-island-crab-migration-in-pictures"
   ],
   [
-    "democrats",
+    "death",
     14,
-    "https://www.nytimes.com/2026/11/27/us/politics/trump-congressional-investigations-contractors.html"
+    "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html"
   ],
   [
-    "fire",
+    "questions",
     14,
-    "https://www.nytimes.com/2026/11/27/us/politics/trump-congressional-investigations-contractors.html"
+    "https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html"
   ],
   [
-    "east",
+    "history",
     14,
-    "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html"
+    "https://www.nytimes.com/2026/11/27/business/media/sam-bankman-fried-ftx-altruists.html"
   ],
   [
-    "police",
+    "center",
     14,
-    "https://www.washingtonpost.com/technology/2026/11/27/denver-man-is-trapping-egging-waymos-self-driving-cars-police-say/"
+    "https://www.nytimes.com/2026/11/27/us/politics/kennedy-center-trump-name-tarp.html"
   ],
   [
-    "weather",
+    "thousands",
     14,
-    "https://www.washingtonpost.com/nation/2026/11/26/what-goes-into-planning-100th-macys-thanksgiving-parade/"
-  ],
-  [
-    "health",
-    14,
-    "https://www.washingtonpost.com/business/2026/11/26/billionaire-marc-andreessen-takes-case-against-red-tape-federal-reserve/"
-  ],
-  [
-    "guide",
-    14,
-    "https://www.theguardian.com/thefilter-us/2026/nov/27/black-friday-deals-best-holiday-gifts"
+    "https://www.washingtonpost.com/nation/2026/11/27/power-outages-heavy-rain-continue-east-coast-after-thanksgiving-day-storm/"
   ],
   [
     "fashion",
@@ -251,39 +241,24 @@
     "https://www.theguardian.com/thefilter-us/2026/nov/27/black-friday-deals-best-holiday-gifts"
   ],
   [
-    "law",
+    "record",
     14,
-    "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival"
+    "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier"
   ],
   [
-    "death",
-    14,
-    "https://www.theguardian.com/global/2026/nov/27/trump-medicaid-cuts-vulnerable-americans"
-  ],
-  [
-    "died",
-    14,
-    "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead"
-  ],
-  [
-    "foxnews",
-    14,
-    "https://www.foxnews.com/outkick-betting/underdog-black-friday-promo-code-enter-code-foxnews-50-bonus-today"
-  ],
-  [
-    "russia",
+    "company",
     13,
-    "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html"
+    "https://www.washingtonpost.com/technology/2026/11/27/denver-man-is-trapping-egging-waymos-self-driving-cars-police-say/"
   ],
   [
-    "today",
+    "water",
     13,
-    "https://www.nytimes.com/2026/11/26/opinion/johnny-depp-ebenezer-david-ellison.html"
+    "https://www.washingtonpost.com/nation/2026/11/26/maryland-residents-urged-conserve-water-after-storm-disrupts-power/"
   ],
   [
-    "sleep",
+    "latest",
     13,
-    "https://www.washingtonpost.com/health/2026/11/27/poorer-americans-are-more-likely-have-poor-sleep-study-shows/"
+    "https://www.wsj.com/articles/the-next-hostages-to-be-freed-women-whose-hamas-warnings-were-ignored-f17682a0"
   ],
   [
     "team",
@@ -291,24 +266,69 @@
     "https://www.wsj.com/articles/beijing-signals-readiness-to-talk-to-trumps-team-even-old-foes-2faddbec"
   ],
   [
-    "game",
+    "having",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/27/experience-snapped-thigh-in-half-playing-thanksgiving-party-game"
+    "https://www.theguardian.com/news/2026/nov/28/why-young-people-are-having-less-sex"
   ],
   [
-    "family",
+    "guide",
     13,
-    "https://www.theguardian.com/lifeandstyle/2026/nov/27/experience-snapped-thigh-in-half-playing-thanksgiving-party-game"
+    "https://www.theguardian.com/thefilter-us/2026/nov/27/black-friday-deals-best-holiday-gifts"
   ],
   [
-    "nvidia",
+    "human",
     13,
-    "https://www.theguardian.com/commentisfree/2026/nov/27/donald-trump-destroying-us-law-tech-titans-jensen-huang-nvidia"
+    "https://www.theguardian.com/commentisfree/2026/nov/27/the-explosion-of-extreme-wealth-is-the-major-problem-of-our-time"
   ],
   [
-    "race",
+    "local",
+    13,
+    "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning"
+  ],
+  [
+    "children",
+    13,
+    "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh"
+  ],
+  [
+    "prices",
+    13,
+    "https://www.theguardian.com/thefilter-us/2026/nov/26/best-streaming-black-friday-deals"
+  ],
+  [
+    "night",
+    13,
+    "https://www.theguardian.com/world/2026/nov/28/could-new-zealand-head-back-to-the-polls-the-new-centrist-party-on-the-block-holds-the-power"
+  ],
+  [
+    "california",
+    13,
+    "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets"
+  ],
+  [
+    "platform",
+    13,
+    "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing"
+  ],
+  [
+    "democrats",
     12,
-    "https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html"
+    "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html"
+  ],
+  [
+    "post",
+    12,
+    "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html"
+  ],
+  [
+    "documentary",
+    12,
+    "https://www.nytimes.com/2026/11/27/business/media/sam-bankman-fried-ftx-altruists.html"
+  ],
+  [
+    "name",
+    12,
+    "https://www.nytimes.com/2026/11/27/us/politics/kennedy-center-trump-name-tarp.html"
   ],
   [
     "nearly",
@@ -316,19 +336,24 @@
     "https://www.washingtonpost.com/nation/2026/11/26/maryland-residents-urged-conserve-water-after-storm-disrupts-power/"
   ],
   [
-    "decades",
+    "ice",
     12,
-    "https://www.washingtonpost.com/nation/2026/11/26/powerful-thanksgiving-storm-threatens-east-coast-with-floods-damaging-winds/"
+    "https://www.washingtonpost.com/immigration/2026/11/26/ice-arrests-man-days-after-1m-lottery-win-boston/"
   ],
   [
-    "turkey",
+    "whose",
     12,
-    "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/"
+    "https://www.washingtonpost.com/business/2026/11/26/billionaire-marc-andreessen-takes-case-against-red-tape-federal-reserve/"
   ],
   [
-    "released",
+    "military",
     12,
-    "https://www.wsj.com/articles/israel-hamas-four-hostages-release-gaza-3ffd66f6"
+    "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db"
+  ],
+  [
+    "least",
+    12,
+    "https://www.wsj.com/articles/hamas-hostages-israel-gaza-41432124"
   ],
   [
     "streaming",
@@ -336,43 +361,18 @@
     "https://www.theguardian.com/thefilter-us/2026/nov/27/black-friday-deals-best-holiday-gifts"
   ],
   [
-    "something",
-    12,
-    "https://www.theguardian.com/tv-and-radio/2026/nov/27/chicken-shop-dates-final-episode"
-  ],
-  [
-    "young",
-    12,
-    "https://www.theguardian.com/world/2026/nov/27/paramedics-blocked-attacked-by-settlers-west-bank"
-  ],
-  [
     "recent",
     12,
-    "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa"
+    "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh"
   ],
   [
-    "sale",
+    "album",
     12,
-    "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday"
+    "https://www.theguardian.com/music/2026/nov/27/phoebe-bridgers-review-co-op-live-manchester"
   ],
   [
-    "local",
-    12,
-    "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning"
-  ],
-  [
-    "center",
-    12,
-    "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning"
-  ],
-  [
-    "love",
-    12,
-    "https://www.theguardian.com/thefilter-us/2026/nov/27/best-black-friday-deals"
-  ],
-  [
-    "california",
-    12,
-    "https://www.theguardian.com/artanddesign/gallery/2026/nov/27/the-week-around-the-world-in-20-pictures"
+    "race",
+    11,
+    "https://www.nytimes.com/2026/11/28/us/politics/trump-china-critics-nvidia.html"
   ]
 ];

@@ -3,50 +3,56 @@
   "ORG": [
     {
       "name": "Trump Administration’S",
-      "count": 35,
+      "count": 25,
       "url": "https://www.theguardian.com/us-news/2026/nov/25/2030-census-changes",
       "source": "The Guardian"
     },
     {
       "name": "Google Ai",
-      "count": 28,
+      "count": 24,
       "url": "https://www.latimes.com/california/story/2026-11-27/lausd-blocks-google-ai-search",
       "source": "LA Times"
     },
     {
       "name": "Macy",
-      "count": 17,
-      "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
+      "count": 16,
+      "url": "https://www.nytimes.com/2026/11/27/nyregion/rescheduled-macys-thanksgiving-parade.html",
       "source": "NY Times"
     },
     {
-      "name": "Nba Cup Finale",
-      "count": 12,
-      "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonuses-4x-free-picks-tonights-nba-cup-finale",
-      "source": "Fox News"
-    },
-    {
-      "name": "Senate",
+      "name": "The State Senate",
       "count": 11,
       "url": "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html",
       "source": "NY Times"
     },
     {
-      "name": "The White House",
-      "count": 8,
-      "url": "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Nvidia",
-      "count": 8,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/donald-trump-destroying-us-law-tech-titans-jensen-huang-nvidia",
+      "name": "Nba Cup",
+      "count": 10,
+      "url": "https://www.theguardian.com/sport/2026/nov/27/luka-doncic-los-angeles-lakers-san-antonio-spurs-nba",
       "source": "The Guardian"
     },
     {
-      "name": "Amazon",
+      "name": "Apple Tv",
+      "count": 8,
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-25/disney-hulu-apple-tv-peacock-offer-black-friday-deals-but-netflix-sits-it-out",
+      "source": "LA Times"
+    },
+    {
+      "name": "Nbc News’",
+      "count": 8,
+      "url": "https://www.nbcnews.com/nightly-news/video/cyber-attack-on-u-s-air-force-cloud-based-platform-274285637711",
+      "source": "NBC News"
+    },
+    {
+      "name": "Netflix",
       "count": 7,
-      "url": "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/28/trinity-jed-mercurios-nuclear-thriller-is-a-phallus-slapping-freudian-nightmare-youll-be-hooked",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Guardian Europe",
+      "count": 7,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/28/grand-theft-anthropic-gta-fightback-against-ai",
       "source": "The Guardian"
     },
     {
@@ -54,43 +60,87 @@
       "count": 7,
       "url": "https://www.politico.com/news/2026/11/21/republican-chairs-know-stuck-with-trump-2028-01179393",
       "source": "Politico"
+    }
+  ],
+  "EVENT": [
+    {
+      "name": "Black Friday Deals",
+      "count": 42,
+      "url": "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html",
+      "source": "NY Times"
     },
     {
-      "name": "Netflix",
-      "count": 6,
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/27/tighten-your-corsets-pass-the-smelling-salts-its-the-greatest-period-dramas-ever-made",
+      "name": "Thanksgiving Day Parade",
+      "count": 15,
+      "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/26/thanksgiving-day-parade-pictures-between-the-balloons",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympic",
+      "count": 3,
+      "url": "https://www.nytimes.com/2026/11/27/sports/anita-defrantz-dead.html",
+      "source": "NY Times"
+    },
+    {
+      "name": "Post-Thanksgiving",
+      "count": 2,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/black-friday-in-real-life",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Olympics    The United States",
+      "count": 2,
+      "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Watergate",
+      "count": 2,
+      "url": "https://www.theguardian.com/books/2026/nov/25/secrets-by-bob-woodward-with-claire-mcmullen-review-the-worlds-most-famous-reporter-reveals-all",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Black Friday 2026",
+      "count": 2,
+      "url": "https://www.nbcnews.com/select/shopping/best-black-friday-deals-11-27-2026-rcna611358",
+      "source": "NBC News"
+    },
+    {
+      "name": "World Cup",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Game 2",
+      "count": 1,
+      "url": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
+      "source": "The Guardian"
+    },
+    {
+      "name": "A Super Bowl",
+      "count": 1,
+      "url": "https://www.theguardian.com/sport/2026/nov/27/dallas-cowboys-jerry-jones-brian-schottenheimer",
       "source": "The Guardian"
     }
   ],
   "PERSON": [
     {
       "name": "Melania Trump",
-      "count": 10,
+      "count": 9,
       "url": "https://www.washingtonpost.com/business/2026/11/27/trump-administration-has-escalated-denials-einstein-visa/",
       "source": "Washington Post"
     },
     {
-      "name": "Jensen Huang",
-      "count": 9,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/donald-trump-destroying-us-law-tech-titans-jensen-huang-nvidia",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Donald Trump Jr.",
-      "count": 8,
-      "url": "https://www.foxnews.com/media/donald-trump-jr-criticizes-netflix-over-racy-hunting-wives-thanksgiving-post",
-      "source": "Fox News"
-    },
-    {
       "name": "Vladimir Putin",
-      "count": 7,
+      "count": 8,
       "url": "https://www.theguardian.com/world/2026/nov/27/ukraine-war-briefing-kyiv-launched-more-long-range-strikes-in-2026-than-rest-of-war-combined-data-shows",
       "source": "The Guardian"
     },
     {
-      "name": "Bill Clinton",
-      "count": 6,
-      "url": "https://www.theguardian.com/us-news/2026/nov/27/biden-promise-me-america-memoir-sales-fall-short",
+      "name": "Aaron Rodgers",
+      "count": 7,
+      "url": "https://www.theguardian.com/sport/2026/nov/27/aaron-rodgers-texts-into-amazon-broadcast-to-defend-himself-as-steelers-beat-broncos",
       "source": "The Guardian"
     },
     {
@@ -98,6 +148,18 @@
       "count": 6,
       "url": "https://www.cbsnews.com/news/sen-deb-fischer-husband-bruce-suicide/",
       "source": "CBS News"
+    },
+    {
+      "name": "Bill Clinton",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/biden-promise-me-america-memoir-sales-fall-short",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Donald Trump",
+      "count": 5,
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
+      "source": "The Guardian"
     },
     {
       "name": "Maddie Ziegler",
@@ -112,141 +174,79 @@
       "source": "The Guardian"
     },
     {
-      "name": "Ro Khanna",
+      "name": "Catherine Herridge",
       "count": 5,
-      "url": "https://www.politico.com/news/2026/11/26/cenk-uygur-goes-all-in-on-ro-khanna-for-2028-01184321",
-      "source": "Politico"
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-25/catherine-herridge-supreme-court-confidential-source",
+      "source": "LA Times"
     },
     {
-      "name": "Will Jd Vance",
-      "count": 4,
-      "url": "https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html",
-      "source": "NY Times"
-    }
-  ],
-  "EVENT": [
-    {
-      "name": "Black Friday For Day 3",
-      "count": 53,
-      "url": "https://www.cbsnews.com/video/cbs-mornings-deals-112726-2/",
+      "name": "Jason Allen",
+      "count": 5,
+      "url": "https://www.cbsnews.com/video/pittsburgh-steelers-take-the-field-for-first-game-since-star-quarterback-rodgers-release/",
       "source": "CBS News"
-    },
-    {
-      "name": "Thanksgiving Day Parade",
-      "count": 16,
-      "url": "https://www.washingtonpost.com/nation/2026/11/25/macys-thanksgiving-day-parade-postponed-by-storm-rescheduled-saturday/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "Post-Thanksgiving",
-      "count": 2,
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/black-friday-in-real-life",
-      "source": "The Guardian"
-    },
-    {
-      "name": "The Iran War",
-      "count": 2,
-      "url": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Watergate",
-      "count": 2,
-      "url": "https://www.theguardian.com/books/2026/nov/25/secrets-by-bob-woodward-with-claire-mcmullen-review-the-worlds-most-famous-reporter-reveals-all",
-      "source": "The Guardian"
-    },
-    {
-      "name": "Nba Cup Action",
-      "count": 2,
-      "url": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-bet-5-four-days-get-200-bonus-bets-starting-friday-night-nba-cup",
-      "source": "Fox News"
-    },
-    {
-      "name": "Black Friday 2026",
-      "count": 2,
-      "url": "https://www.nbcnews.com/select/shopping/best-black-friday-deals-11-27-2026-rcna611358",
-      "source": "NBC News"
-    },
-    {
-      "name": "Black Friday Deals",
-      "count": 1,
-      "url": "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Olympic",
-      "count": 1,
-      "url": "https://www.washingtonpost.com/obituaries/2026/11/26/anita-defrantz-outstanding-advocate-olympic-values-dies-74/",
-      "source": "Washington Post"
-    },
-    {
-      "name": "This Black Friday",
-      "count": 1,
-      "url": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
-      "source": "The Guardian"
     }
   ],
   "GPE": [
     {
       "name": "Us",
-      "count": 49,
+      "count": 44,
       "url": "https://www.theguardian.com/thefilter-us/2026/nov/27/black-friday-deals-best-holiday-gifts",
       "source": "The Guardian"
     },
     {
-      "name": "U.S.",
-      "count": 17,
-      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
-      "source": "Wall St. Journal"
-    },
-    {
       "name": "Russia",
-      "count": 14,
+      "count": 17,
       "url": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
       "source": "NY Times"
     },
     {
       "name": "Ukraine",
-      "count": 14,
-      "url": "https://www.theguardian.com/world/2026/nov/27/mass-casualty-event-europe-possible-russian-sabotage-says-thinktank",
+      "count": 16,
+      "url": "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine",
       "source": "The Guardian"
     },
     {
-      "name": "L.A. County'S",
-      "count": 11,
-      "url": "https://www.latimes.com/business/story/2026-11-25/how-one-developer-plans-to-build-big-data-center-in-la-county-where-nimbys-wont-notice",
-      "source": "LA Times"
-    },
-    {
-      "name": "The United States Of America",
-      "count": 11,
-      "url": "https://thehill.com/homenews/campaign/6245451-cenk-uygur-ro-khanna-2028-election/",
-      "source": "The Hill"
-    },
-    {
-      "name": "California",
-      "count": 10,
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/27/the-week-around-the-world-in-20-pictures",
-      "source": "The Guardian"
-    },
-    {
-      "name": "New York City’S",
-      "count": 9,
-      "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
-      "source": "NY Times"
-    },
-    {
-      "name": "Iowa",
-      "count": 9,
-      "url": "https://www.washingtonpost.com/nation/2026/11/25/how-army-detonated-explosives-iowa-potential-plume/",
+      "name": "New York City",
+      "count": 15,
+      "url": "https://www.washingtonpost.com/nation/2026/11/26/powerful-thanksgiving-storm-threatens-east-coast-with-floods-damaging-winds/",
       "source": "Washington Post"
     },
     {
-      "name": "Canada",
-      "count": 8,
-      "url": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
-      "source": "NY Times"
+      "name": "U.S.",
+      "count": 12,
+      "url": "https://www.wsj.com/articles/germany-economic-model-broken-exports-095a488d",
+      "source": "Wall St. Journal"
+    },
+    {
+      "name": "Florida",
+      "count": 12,
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning",
+      "source": "The Guardian"
+    },
+    {
+      "name": "California",
+      "count": 11,
+      "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iran",
+      "count": 10,
+      "url": "https://www.washingtonpost.com/nation/2026/11/26/asked-about-iran-contra-reagan-joked-about-pardoning-turkey-tradition-followed/",
+      "source": "Washington Post"
+    },
+    {
+      "name": "Uk",
+      "count": 10,
+      "url": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
+      "source": "The Guardian"
+    },
+    {
+      "name": "Iowa",
+      "count": 10,
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/army-lead-poison-bomb-iowa",
+      "source": "The Guardian"
     }
   ],
-  "updated": "2026-11-27T21:51:34Z"
+  "updated": "2026-11-28T08:45:23Z"
 };
